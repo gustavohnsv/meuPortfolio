@@ -1,0 +1,88 @@
+const languageList = [
+    {
+        id: 1,
+        href: 'https://pt.wikipedia.org/wiki/React_(JavaScript)',
+        url: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg',
+        alt: 'React',
+        text: 'React',
+    },
+    {
+        id: 2,
+        href: 'https://pt.wikipedia.org/wiki/JavaScript',
+        url: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg',
+        alt: 'Javascript',
+        text: 'Javascript',
+    },
+    {
+        id: 3,
+        href: 'https://pt.wikipedia.org/wiki/HTML5',
+        url: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg',
+        alt: 'HTML5',
+        text: 'HTML5',
+    },
+    {
+        id: 4,
+        href: 'https://pt.wikipedia.org/wiki/CSS3',
+        url: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg',
+        alt: 'CSS3',
+        text: 'CSS3',
+    },
+    {
+        id: 5,
+        href: 'https://pt.wikipedia.org/wiki/PHP',
+        url: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg',
+        alt: 'PHP',
+        text: 'PHP',
+    },
+    {
+        id: 6,
+        href: 'https://pt.wikipedia.org/wiki/MySQL',
+        url: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg',
+        alt: 'MySQL',
+        text: 'MySQL',
+    },
+    {
+        id: 7,
+        href: 'https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o)',
+        url: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg',
+        alt: 'Java',
+        text: 'Java',
+    },
+    {
+        id: 8,
+        href: 'https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)',
+        url: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg',
+        alt: 'C',
+        text: 'C',
+    },
+    {
+        id: 9,
+        href: 'https://pt.wikipedia.org/wiki/C_Sharp',
+        url: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg',
+        alt: 'C#',
+        text: 'C#',
+    },
+    {
+        id:  10,
+        href: 'https://en.wikipedia.org/wiki/Sass_(style_sheet_language)',
+        url: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg',
+        alt: 'Sass',
+        text: 'Sass',
+    },
+    {
+        id:  11,
+        href: 'https://pt.wikipedia.org/wiki/Python',
+        url: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg',
+        alt: 'Python',
+        text: 'Python',
+    },
+    {
+        id:  12,
+        href: 'htthttps://pt.wikipedia.org/wiki/.NET_Frameworkps://pt.wikipedia.org/wiki/Python',
+        url: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg',
+        alt: 'Microsoft .NET',
+        text: '.NET',
+    },
+]
+
+export default languageList
