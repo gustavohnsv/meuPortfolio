@@ -64,7 +64,7 @@ function SectionContact(props) {
             delay: 2500,
             disableOnInteraction: false,
             }}
-            loop={true}
+            touchMoveStopPropagation={true}
             >
                 {slideList && slideList.slice(0,4).map( (item) => ( 
                     <SwiperSlide key={item.id} className='slide-card' style={{ background: item.background}}>
@@ -74,7 +74,7 @@ function SectionContact(props) {
                             src={item.url} 
                             alt={item.text}
                             className='slide-img'
-                            />
+                            />  
                         </a> 
                     </SwiperSlide>
                     ))

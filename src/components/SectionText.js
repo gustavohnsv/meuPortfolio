@@ -17,11 +17,6 @@ function SectionText(props) {
                 <p>                 
                     Atualmente, estou cursando <b>Sistemas de Informação na <a href='https://www5.usp.br/' target='_blank' rel="noreferrer">Universidade de São Paulo</a></b>, mais especificamente na <b><a href='https://www5.each.usp.br/' target='_blank' rel="noreferrer">Escola de Artes, Ciências e Humanidades (EACH-USP)</a> </b>. Aqui, além de me aprofundar em conceitos avançados de programação e sistemas de informação, estou imerso em um ambiente acadêmico vibrante e colaborativo, <b>onde posso explorar e expandir meu conhecimento em diversas áreas relacionadas à tecnologia.</b>
                 </p>
-
-                <p>
-                    Minha paixão pela programação vai além do ambiente acadêmico. Sou um ávido entusiasta que está sempre em busca de aprender coisas novas e enfrentar desafios estimulantes. Acredito firmemente na importância da aprendizagem contínua e no aprimoramento constante de minhas habilidades técnicas. Estou constantemente envolvido em projetos pessoais e iniciativas de aprendizado autônomo para me manter atualizado com as últimas tendências e tecnologias no campo da tecnologia da informação.
-                </p>
-
             </section>
         </div>
     )
